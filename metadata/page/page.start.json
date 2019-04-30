@@ -2,6 +2,13 @@
   "_id": "page.start",
   "_type": "page.start",
   "body": "Use this service to:\r\n\r\n* file a statement out of time\r\n* ask for an extension of time",
+  "extraComponents": [
+    {
+      "_id": "page.start--content",
+      "_type": "content",
+      "html": "Find out [how HM Courts and Tribunals Service uses personal information](https://www.gov.uk/government/organisations/hm-courts-and-tribunals-service/about/personal-information-charter)."
+    }
+  ],
   "heading": "Application to file a statement out of time/extension of time",
   "steps": [],
   "url": "/"
