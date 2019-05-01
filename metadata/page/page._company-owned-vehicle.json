@@ -19,13 +19,13 @@
           "value": "auto_value__8"
         }
       ],
-      "legend": "Does a company own the vehicle?",
-      "name": "auto_name__4"
+      "legend": "Is the vehicle owned and registered by a company?",
+      "name": "owned_and_registered_by_company"
     }
   ],
   "enableSteps": true,
   "steps": [
-    "page._company-name"
+    "page.company-name"
   ],
   "url": "/company-owned-vehicle"
 }
