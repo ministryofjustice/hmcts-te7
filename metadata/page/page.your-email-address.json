@@ -1,0 +1,18 @@
+{
+  "_id": "page.your-email-address",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.your-email-address--email.auto_name__6",
+      "_type": "email",
+      "hint": "We'll only use this to contact you about your claim",
+      "label": "Your email",
+      "name": "email_address"
+    }
+  ],
+  "show": {
+    "identifier": "email",
+    "operator": "defined"
+  },
+  "url": "/your-email"
+}

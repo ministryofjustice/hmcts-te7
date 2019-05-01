@@ -1,0 +1,36 @@
+{
+  "_id": "page.contact-method",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.contact-method--checkboxes",
+      "_type": "checkboxes",
+      "items": [
+        {
+          "_id": "page.contact-method--checkboxes--checkbox.auto_name__3",
+          "_type": "checkbox",
+          "label": "Mobile (call or text)",
+          "name": "mobile"
+        },
+        {
+          "_id": "page.contact-method--checkboxes--checkbox.auto_name__4",
+          "_type": "checkbox",
+          "label": "Email",
+          "name": "email"
+        }
+      ],
+      "legend": "How can we contact you?"
+    }
+  ],
+  "enableSteps": true,
+  "show": {
+    "identifier": "auto_name__2",
+    "operator": "is",
+    "value": "auto_value__3"
+  },
+  "steps": [
+    "page.mobile-contact",
+    "page.your-email-address"
+  ],
+  "url": "/contact-method"
+}

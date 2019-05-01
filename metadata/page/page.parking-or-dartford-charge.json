@@ -1,0 +1,27 @@
+{
+  "_id": "page.parking-or-dartford-charge",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.parking-or-dartford-charge--radios.auto_name__1",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.parking-or-dartford-charge--radios.auto_name__1--radio.auto_value__1",
+          "_type": "radio",
+          "label": "Standard parking charge",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page.parking-or-dartford-charge--radios.auto_name__1--radio.auto_value__2",
+          "_type": "radio",
+          "label": "Dartford Crossing charge",
+          "value": "auto_value__2"
+        }
+      ],
+      "legend": "Are you applying to file a statement for a standard parking charge or Dartford Crossing charge?",
+      "name": "auto_name__1"
+    }
+  ],
+  "url": "/standard-parking-or-dartford-charge"
+}

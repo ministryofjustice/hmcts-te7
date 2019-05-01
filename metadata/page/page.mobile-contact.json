@@ -1,0 +1,18 @@
+{
+  "_id": "page.mobile-contact",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.mobile-contact--number.auto_name__5",
+      "_type": "number",
+      "hint": "We'll only use this to contact you about your claim",
+      "label": "Your mobile number",
+      "name": "mobile_number"
+    }
+  ],
+  "show": {
+    "identifier": "mobile",
+    "operator": "defined"
+  },
+  "url": "/your-mobile-number"
+}

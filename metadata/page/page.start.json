@@ -2,6 +2,13 @@
   "_id": "page.start",
   "_type": "page.start",
   "body": "Use this service to:\r\n\r\n* file a statement out of time\r\n* ask for an extension of time",
+  "components": [
+    {
+      "_id": "page.start--content--2",
+      "_type": "content",
+      "html": "### When you've completed your application\r\n\r\nYou can send your completed application to us by post or email. Our email is [tec@justice.gov.uk](tec@justice.gov.uk).\r\n\r\n**Post your application**\r\n \r\nTraffic Enforcement Centre   \r\nCounty Court Business Centre   \r\nSt Katherine’s House      \r\n21 – 27 St Katherine’s Street   \r\nNorthampton, NN1 2LH"
+    }
+  ],
   "extraComponents": [
     {
       "_id": "page.start--content",
@@ -10,6 +17,13 @@
     }
   ],
   "heading": "Application to file a statement out of time/extension of time",
-  "steps": [],
+  "steps": [
+    "page.contact-consent",
+    "page.parking-or-dartford-charge",
+    "page._penalty-details",
+    "page.respondent-details",
+    "page._company-owned-vehicle",
+    "page._out-of-time-or-need-more-time"
+  ],
   "url": "/"
 }

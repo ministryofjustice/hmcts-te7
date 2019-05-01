@@ -1,0 +1,49 @@
+{
+  "_id": "page.respondent-details",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.respondent-details--text.auto_name__3",
+      "_type": "text",
+      "label": "Full name",
+      "name": "full_name"
+    },
+    {
+      "_id": "page.respondent-details--content",
+      "_type": "content",
+      "html": "### Respondent's address"
+    },
+    {
+      "_id": "page.respondent-details--text.auto_name__3--2",
+      "_type": "text",
+      "label": "House name or number",
+      "name": "house_name_or_number"
+    },
+    {
+      "_id": "page.respondent-details--text.auto_name__3--3",
+      "_type": "text",
+      "label": "Street",
+      "name": "street"
+    },
+    {
+      "_id": "page.respondent-details--text.auto_name__4",
+      "_type": "text",
+      "label": "Town or city",
+      "name": "town_or_city"
+    },
+    {
+      "_id": "page.respondent-details--text.auto_name__5",
+      "_type": "text",
+      "label": "County",
+      "name": "county"
+    },
+    {
+      "_id": "page.respondent-details--text.auto_name__6",
+      "_type": "text",
+      "label": "Postcode",
+      "name": "Postcode"
+    }
+  ],
+  "heading": "Respondent's details",
+  "url": "respondent-details"
+}

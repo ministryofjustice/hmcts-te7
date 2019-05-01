@@ -1,0 +1,20 @@
+{
+  "_id": "page._penalty-details",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page._penalty-details--number.auto_name__3",
+      "_type": "number",
+      "label": "Penalty charge number",
+      "name": "penalty_charge_number"
+    },
+    {
+      "_id": "page._penalty-details--number.auto_name__4",
+      "_type": "number",
+      "label": "Vehicle registration number",
+      "name": "Vehicle_registration_number"
+    }
+  ],
+  "heading": "Penalty details",
+  "url": "/penalty-details"
+}
