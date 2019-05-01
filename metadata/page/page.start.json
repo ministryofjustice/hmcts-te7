@@ -21,9 +21,12 @@
     "page.contact-consent",
     "page.parking-or-dartford-charge",
     "page._penalty-details",
-    "page._company-owned-vehicle",
     "page.respondent-details",
-    "page._out-of-time-or-need-more-time"
+    "page._out-of-time-or-need-more-time",
+    "page.statement-of-truth",
+    "page.person-signing",
+    "page.check-answers",
+    "page.now-filed-statement"
   ],
   "url": "/"
 }

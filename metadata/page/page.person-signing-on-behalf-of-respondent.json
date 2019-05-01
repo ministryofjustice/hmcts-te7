@@ -1,0 +1,40 @@
+{
+  "_id": "page.person-signing-on-behalf-of-respondent",
+  "_type": "page.form",
+  "body": "If you are signing on behalf of the respondent, what role do you have?",
+  "components": [
+    {
+      "_id": "page.person-signing-on-behalf-of-respondent--radios.auto_name__6",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.person-signing-on-behalf-of-respondent--radios.auto_name__6--radio.auto_value__9",
+          "_type": "radio",
+          "label": "An officer of the company",
+          "value": "auto_value__9"
+        },
+        {
+          "_id": "page.person-signing-on-behalf-of-respondent--radios.auto_name__6--radio.auto_value__10",
+          "_type": "radio",
+          "label": "A Partner of the firm",
+          "value": "auto_value__10"
+        },
+        {
+          "_id": "page.person-signing-on-behalf-of-respondent--radios.auto_name__6--radio.auto_value__11",
+          "_type": "radio",
+          "label": "A Litigation friend acting on behalf of a protected party within the meaning of the Mental Capacity Act 2005",
+          "value": "auto_value__11"
+        }
+      ],
+      "name": "auto_name__6"
+    },
+    {
+      "_id": "page.person-signing-on-behalf-of-respondent--text.auto_name__7",
+      "_type": "text",
+      "label": "**What is your full name?**",
+      "name": "auto_name__7"
+    }
+  ],
+  "heading": "Signing on behalf of respondent",
+  "url": "person-signing-on-behalf-of-respondent"
+}

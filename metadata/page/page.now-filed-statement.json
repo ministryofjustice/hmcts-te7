@@ -1,0 +1,13 @@
+{
+  "_id": "page.now-filed-statement",
+  "_type": "page.confirmation",
+  "components": [
+    {
+      "_id": "page.now-filed-statement--content",
+      "_type": "content",
+      "html": "### Now you've completed your application\r\n\r\nYou can print your application off and send it by post or email it to us. Our email is [tec@justice.gov.uk](tec@justice.gov.uk).\r\n\r\n**Post your application**\r\n \r\nTraffic Enforcement Centre   \r\nCounty Court Business Centre   \r\nSt Katherine’s House      \r\n21 – 27 St Katherine’s Street   \r\nNorthampton, NN1 2LH"
+    }
+  ],
+  "heading": "You've successfully filed your statement",
+  "url": "now-filed-statement"
+}

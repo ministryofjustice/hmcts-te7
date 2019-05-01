@@ -1,0 +1,22 @@
+{
+  "_id": "page.statement-of-truth",
+  "_type": "page.form",
+  "body": "Proceedings for contempt of court may be brought against you if you make or cause to be made a false statement in an application verified by a statement of truth without an honest belief in its truth.",
+  "components": [
+    {
+      "_id": "page.statement-of-truth--textarea.auto_name__4",
+      "_type": "textarea",
+      "hint": "State that the facts in this application are true",
+      "label": "**Statement**",
+      "name": "statement"
+    },
+    {
+      "_id": "page.statement-of-truth--date.auto_name__5",
+      "_type": "date",
+      "label": "**Date**",
+      "name": "auto_name__5"
+    }
+  ],
+  "heading": "Statement of truth",
+  "url": "statement-of-truth"
+}
