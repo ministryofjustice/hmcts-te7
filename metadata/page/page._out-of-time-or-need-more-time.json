@@ -9,18 +9,18 @@
         {
           "_id": "page._out-of-time-or-need-more-time--radios.auto_name__3--radio.auto_value__5",
           "_type": "radio",
-          "label": "I'm out of time",
-          "value": "auto_value__5"
+          "label": "I’m out of time",
+          "value": "out_of_time"
         },
         {
           "_id": "page._out-of-time-or-need-more-time--radios.auto_name__3--radio.auto_value__6",
           "_type": "radio",
           "label": "I need more time",
-          "value": "auto_value__6"
+          "value": "more_time"
         }
       ],
-      "legend": "Are you filing because you're out of time or need more time?",
-      "name": "auto_name__3"
+      "legend": "Are you filing because you’re out of time or need more time?",
+      "name": "filing_reason"
     }
   ],
   "enableSteps": true,

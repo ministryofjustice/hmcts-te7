@@ -4,15 +4,17 @@
   "components": [
     {
       "_id": "page._penalty-details--number.auto_name__3",
-      "_type": "number",
+      "_type": "text",
       "label": "Penalty charge number",
-      "name": "penalty_charge_number"
+      "name": "penalty_charge_number",
+      "widthClassInput": "one-third"
     },
     {
       "_id": "page._penalty-details--number.auto_name__4",
-      "_type": "number",
+      "_type": "text",
       "label": "Vehicle registration number",
-      "name": "Vehicle_registration_number"
+      "name": "Vehicle_registration_number",
+      "widthClassInput": "one-third"
     }
   ],
   "heading": "Penalty details",
